@@ -2,7 +2,7 @@
 title: Random order models
 ---
 
-5/15
+5/20
 : **Lecture**{: .label .label-blue }
 : **Random ordering problems:** Secretary problems. Case study: online facility location.
 : [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l16.pdf)
