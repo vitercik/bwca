@@ -30,3 +30,6 @@ This course will be facilitated through in-person class meetings with the profes
 ## Course materials
 - Required textbook: Roughgarden (2021). Beyond the Worst-Case Analysis of Algorithms.  
 Stanford students can access it for free [here](https://searchworks.stanford.edu/view/13773968).
+
+## Previous versions of this course
+This course was originally developed by Tim Roughgarden [link](https://timroughgarden.org/w17/w17.html).
