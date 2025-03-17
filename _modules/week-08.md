@@ -1,10 +1,12 @@
 ---
-title: Instance optimality
+title: Nonnegative matrix factorization
 ---
 
-4/3
+5/15
 : **Lecture**{: .label .label-blue }
-: - Instance optimality in computational geometry
-: - [Lecture notes](https://vitercik.github.io/probability/assets/notes/l2.pdf)
-: - [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 3
-: - Afshani/Barbay/Chan, [Instance-optimal geometric algorithms](https://arxiv.org/abs/1505.00184), FOCS '09.
+: **Nonnegative matrix factorization:** Exact recovery: topic models and nonnegative matrix factorization.
+: [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l15.pdf)
+: [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 20
+: *Supplemental reading:*
+: - [Computing a Nonnegative Matrix Factorization -- Provably](https://arxiv.org/abs/1111.0952) (Arora/Ge/Kannan/Moitra, 2012)
+: - [A Practical Algorithm for Topic Modeling with Provable Guarantees](https://arxiv.org/abs/1212.4777) (Arora/Ge/Halpern/Mimno/Moitra/Sontag/Wu/Zhu, 2013)
