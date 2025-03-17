@@ -8,7 +8,7 @@ seo:
   name: CS264/MS&E215
 ---
 
-# Introduction to Probability
+# Beyond Worst-Case Analysis
 
 ## Course information
 
