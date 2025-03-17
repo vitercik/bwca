@@ -9,6 +9,8 @@ title: Smoothed analysis
 : [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 13
 : *Supplemental reading:*
 : - Englert/Roeglin/Voecking, [Worst Case and Probabilistic Analysis of the 2-Opt Algorithm for the TSP](https://arxiv.org/abs/2302.06889), SODA '07 and Algorithmica.
+: **HW3 due**{: .label .label-red } due at 11:59pm
+: **HW4 out**{: .label .label-green } due 6/5
 
 5/27
 : **Lecture**{: .label .label-blue }
