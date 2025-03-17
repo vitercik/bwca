@@ -22,10 +22,3 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 {% endif %}
-
-{% assign ACE_assistants = site.staffers | where: 'role', 'ACE Assistant' %}
-## ACE Course Assistant
-
-{% for staffer in ACE_assistants %}
-{{ staffer }}
-{% endfor %}
