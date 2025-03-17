@@ -10,6 +10,8 @@ title: Semi-random models and semidefinite programming
 : *Supplemental reading:*
 : - [Heuristics for Semirandom Graph Problems](https://searchworks.stanford.edu/articles/edsbl__RN112103582) (Feige/Kilian, 2001)
 : - [Lecture notes on SDP duality](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15859-f11/www/notes/lecture12.pdf) (Gupta, 2011)
+: **HW2 due**{: .label .label-red } due at 11:59pm
+: **HW3 out**{: .label .label-green } due 5/22
 
 5/13
 : **Lecture**{: .label .label-blue }
