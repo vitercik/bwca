@@ -1,10 +1,11 @@
 ---
-title: Instance optimality
+title: Automated algorithm configuration
 ---
 
-4/3
+5/29
 : **Lecture**{: .label .label-blue }
-: - Instance optimality in computational geometry
-: - [Lecture notes](https://vitercik.github.io/probability/assets/notes/l2.pdf)
-: - [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 3
-: - Afshani/Barbay/Chan, [Instance-optimal geometric algorithms](https://arxiv.org/abs/1505.00184), FOCS '09.
+: **Automated algorithm configuration**
+: [Lecture notes](https://vitercik.github.io/ml4do/assets/notes/lecture14.pdf)
+: [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 29
+: *Supplemental reading:*
+: - [A PAC Approach to Application-Specific Algorithm Selection](https://arxiv.org/abs/1511.07147) (Gupta/Roughgarden, ITCS '16)
