@@ -29,6 +29,8 @@ title: Perturbation stability
 : - Makarychev/Makarychev/Vijayaraghavan, [Bilu-Linial Stable Instances of Max Cut and Minimum Multiway Cut](https://arxiv.org/abs/1305.1681), SODA '14.
 : - [Lecture notes on metric embeddings](https://kam.mff.cuni.cz/~matousek/ba-a4.pdf) (Matousek, 2013)
 : - [Euclidean distortion and the Sparsest Cut](https://arxiv.org/abs/math/0508154) (Arora/Lee/Naor, 2006)
+: **HW1 due**{: .label .label-red } due at 11:59pm
+: **HW2 out**{: .label .label-green } due 5/8
 
 4/29
 : **No class**{: .label .label-purple }
