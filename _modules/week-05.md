@@ -14,8 +14,7 @@ title: Perturbation stability
 
 4/22
 : **Lecture**{: .label .label-blue }
-: **Perturbation-stable minimum cuts**
-: When are linear programming relaxations exact? Case study: perturbation-stable instances of the minimum multiway cut problem.
+: **Perturbation-stable minimum cuts**: When are linear programming relaxations exact? Case study: perturbation-stable instances of the minimum multiway cut problem.
 : [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l7.pdf)
 : [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 5
 : *Supplemental reading:*
@@ -23,8 +22,7 @@ title: Perturbation stability
 
 4/24
 : **Lecture**{: .label .label-blue }
-: **Perturbation-stable maximum cuts**
-: Exact recovery in perturbation-stable instances of the maximum cut problem. Metric embeddings and Bourgain's Theorem. Improvements via semidefinite programming.
+: **Perturbation-stable maximum cuts**: Exact recovery in perturbation-stable instances of the maximum cut problem. Metric embeddings and Bourgain's Theorem. Improvements via semidefinite programming.
 : [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l8.pdf)
 : [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 5
 : *Supplemental reading:*
