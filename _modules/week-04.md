@@ -9,7 +9,7 @@ title: Parameterized algorithms and analysis
 : *Supplemental reading:*
 : - Albers/Favrholdt/Giel, [On Paging with Locality of Reference](https://www.sciencedirect.com/science/article/pii/S0022000004000947), STOC '02/JCSS '05.
 : - [Related video](https://theory.stanford.edu/bwca/#albers) (from the 2011 workshop on BWCA): Susanne Albers on locality of reference in competitive analysis.
-: **HW1 out**{: .label .label-green }
+: **HW1 out**{: .label .label-green } due 4/24
 
 4/15
 : **Lecture**{: .label .label-blue }
