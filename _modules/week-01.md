@@ -1,23 +1,11 @@
 ---
-title: Introduction to Java
+title: Introduction
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
-
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+4/1
+: **Lecture**{: .label .label-blue }
+: - Introduction to class
+: - Three motivating examples (caching, linear programming, clustering).
+: - Instance optimality.
+: - [Lecture notes](https://vitercik.github.io/probability/assets/slides/l1.pdf)
+: - Fagin/Lotem/Naor, [Optimal aggregation algorithms for middleware](https://arxiv.org/abs/cs/0204046), JCSS '03.
