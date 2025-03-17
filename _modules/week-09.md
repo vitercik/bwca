@@ -1,10 +1,11 @@
 ---
-title: Instance optimality
+title: Random order models
 ---
 
-4/3
+5/15
 : **Lecture**{: .label .label-blue }
-: - Instance optimality in computational geometry
-: - [Lecture notes](https://vitercik.github.io/probability/assets/notes/l2.pdf)
-: - [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 3
-: - Afshani/Barbay/Chan, [Instance-optimal geometric algorithms](https://arxiv.org/abs/1505.00184), FOCS '09.
+: **Random ordering problems:** Secretary problems. Case study: online facility location.
+: [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l16.pdf)
+: [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 11
+: *Supplemental reading:*
+: - [Online Facility Location](https://www.cs.toronto.edu/~bor/2420s19/papers/meyerson-online-facilty-location.pdf) (Meyerson, 2011)
