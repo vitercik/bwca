@@ -15,7 +15,7 @@ seo:
 - **Quarter:** Spring 2025
 - **Lecture time:** Tuesdays and Thursdays 1:30-2:50pm
 - **Lecture location:** 260-113
-- **Prerequisites:**  CS 161 (required). CS261 is recommended but not required.
+- **Prerequisites:**  Introductory algorithms class (e.g., CS 161). CS261 is recommended but not required.
 
 ## Description
 
