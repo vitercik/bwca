@@ -3,7 +3,6 @@ title: Nonnegative matrix factorization
 ---
 
 5/15
-: **Lecture**{: .label .label-blue }
 : **Nonnegative matrix factorization:** Exact recovery: topic models and nonnegative matrix factorization.
 : [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l15.pdf)
 : [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 20

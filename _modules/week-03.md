@@ -3,7 +3,6 @@ title: Resource augmentation
 ---
 
 4/8
-: **Lecture**{: .label .label-blue }
 : **Resource augmentation:** Online paging. Resource augmentation. Loose competitiveness.
 : [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l3.pdf)
 : [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 4

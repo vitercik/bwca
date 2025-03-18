@@ -3,7 +3,6 @@ title: Perturbation stability
 ---
 
 4/17
-: **Lecture**{: .label .label-blue }
 : **Perturbation-stable clustering**
 : [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l6.pdf)
 : [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 5
@@ -13,7 +12,6 @@ title: Perturbation stability
 : - For a survey of this area, see [Center Based Clustering: A Foundational Perspective](https://www.cs.cmu.edu/~ninamf/papers/cluster-chapter.pdf). (Awasthi/Balcan, 2014)
 
 4/22
-: **Lecture**{: .label .label-blue }
 : **Perturbation-stable minimum cuts**: When are linear programming relaxations exact? Case study: perturbation-stable instances of the minimum multiway cut problem.
 : [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l7.pdf)
 : [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 5
@@ -21,7 +19,6 @@ title: Perturbation stability
 : - Makarychev/Makarychev/Vijayaraghavan, [Bilu-Linial Stable Instances of Max Cut and Minimum Multiway Cut](https://arxiv.org/abs/1305.1681), SODA '14.
 
 4/24
-: **Lecture**{: .label .label-blue }
 : **Perturbation-stable maximum cuts**: Exact recovery in perturbation-stable instances of the maximum cut problem. Metric embeddings and Bourgain's Theorem. Improvements via semidefinite programming.
 : [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l8.pdf)
 : [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 5

@@ -3,7 +3,6 @@ title: Automated algorithm configuration
 ---
 
 5/29
-: **Lecture**{: .label .label-blue }
 : **Automated algorithm configuration**
 : [Lecture notes](https://vitercik.github.io/ml4do/assets/notes/lecture14.pdf)
 : [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 29

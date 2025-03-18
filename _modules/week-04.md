@@ -3,7 +3,6 @@ title: Parameterized algorithms and analysis
 ---
 
 4/10
-: **Lecture**{: .label .label-blue }
 : **Parameterized paging:** Parameterized analysis of online paging. Parameterizing page sequences by their locality. Optimal page fault bounds for LRU. Rigorously separating LRU and FIFO.
 : [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l4.pdf)
 : *Supplemental reading:*
@@ -12,7 +11,6 @@ title: Parameterized algorithms and analysis
 : **HW1 out**{: .label .label-green } due 4/24
 
 4/15
-: **Lecture**{: .label .label-blue }
 : **Parameterized algorithms:** NP-hard problems and what to do about them. The knapsack problem and parameterized approximation bounds. Parameterized algorithms and a polynomial-size kernel for the vertex cover problem. Color-coding and the longest path problem.
 : [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l5.pdf)
 : [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 2

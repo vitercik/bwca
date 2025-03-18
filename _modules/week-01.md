@@ -3,7 +3,6 @@ title: Introduction
 ---
 
 4/1
-: **Lecture**{: .label .label-blue }
 : **Introduction:** Three motivating examples (caching, linear programming, clustering). Instance optimality.
 : [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l1.pdf)
 : *Supplemental reading:*

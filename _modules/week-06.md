@@ -3,7 +3,6 @@ title: Spectral algorithms for planted bisection and clique
 ---
 
 5/1
-: **Lecture**{: .label .label-blue }
 : **Spectral algorithms for planted bisection:** Random graphs. Planted models. A spectral algorithm for the planted bisection problem.
 : [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l9.pdf)
 : [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 8
@@ -13,7 +12,6 @@ title: Spectral algorithms for planted bisection and clique
 : - Our presentation is loosely based on lecture notes of Spielman, [here](https://www.cs.yale.edu/homes/spielman/561/lect21-15.pdf) and [here](https://www.cs.yale.edu/homes/spielman/561/2012/lect21-12.pdf).
 
 5/6
-: **Lecture**{: .label .label-blue }
 : **Spectral algorithms for planted clique:** A little matrix perturbation theory. A spectral algorithm for the planted clique problem.
 : [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l9.pdf)
 : [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 8

@@ -3,7 +3,6 @@ title: Semi-random models and semidefinite programming
 ---
 
 5/8
-: **Lecture**{: .label .label-blue }
 : **Semi-random models and semidefinite programming:** Case study: minimum bisection. SDP duality.
 : [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l11.pdf)
 : [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 9
@@ -14,7 +13,6 @@ title: Semi-random models and semidefinite programming
 : **HW3 out**{: .label .label-green } due 5/22
 
 5/13
-: **Lecture**{: .label .label-blue }
 : **Semi-random models and semidefinite programming:** Finish bisection. Second case study: maximum clique.
 : [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l11.pdf)
 : [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 9

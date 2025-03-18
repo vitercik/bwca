@@ -3,7 +3,6 @@ title: Smoothed analysis
 ---
 
 5/22
-: **Lecture**{: .label .label-blue }
 : **Smoothed local search:** Smoothed analysis of local search heuristics. Case study: the 2OPT local search heuristic for TSP in the plane.
 : [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l17.pdf)
 : [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 13
@@ -13,7 +12,6 @@ title: Smoothed analysis
 : **HW4 out**{: .label .label-green } due 6/5
 
 5/27
-: **Lecture**{: .label .label-blue }
 : **Pseudopoly = Smoothed Poly:** For binary optimization problems, polynomial smoothed complexity <=> (Las Vegas randomized) pseudopolynomial worst-case complexity.
 : [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l18.pdf)
 : *Supplemental reading:*
