@@ -7,11 +7,6 @@ description: >-
 
 # Course policies
 
-## Coursework and grading scheme
-
-The grading will be based on four homeworks, each of which will make up 25% of the final letter grade.
-The class schedule highlights assignment due dates so that you can plan your work for the quarter accordingly.
-
 
 ## Deadlines and late submissions
 Assignment deadlines are listed in the course schedule to enable you to effectively plan and balance your academic work and other commitments. Despite the best planning, however, we know that life happens! So:

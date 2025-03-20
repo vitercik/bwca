@@ -25,7 +25,15 @@ This course is motivated by algorithm design problems where traditional worst-ca
 
 This course will be facilitated through in-person class meetings with the professor. All assignments will be posted on Canvas. Announcements will also be made through Canvas, and any questions should be posted to Ed.
 - **Lecture:** Our class will meet on Tuesdays and Thursdays from 1:30-2:50 PM in 260-113.
-- **Homework:** You will submit your bi-weekly homework assignments on Gradescope (linked to on Canvas). The deadline for each homework will be Thursdays at 11:59pm.
+- **Homework:** Students will submit four homework assignments on Gradescope (linked to on Canvas). The deadline for each homework will be Thursdays at 11:59pm.
+- **[Project](project.md):** Students will complete a course project, in a group or individually.
+
+## Grading
+
+Grading will be out of 100 points as follows:
+- **Homeworks:** 60 points (15 for each of four homeworks)
+- **[Project](https://vitercik.github.io/ml4do/project/#grading):** 40 points
+
 
 ## Course materials
 - Required textbook: Roughgarden (2021). Beyond the Worst-Case Analysis of Algorithms.  
