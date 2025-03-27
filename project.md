@@ -33,7 +33,7 @@ at most two students if it's a survey project (except with special permission).
 ## Milestones
 - **May 1**: Each group will submit a short progress report of 1-2 pages. Describe your project and partial progress.
 - **June 3**: Students will present their final project during class.
-- **June 12**: Each group will submit their final report.
+- **June 11**: Each group will submit their final report.
 
 ## Grading
 Grading will be out of 40 points, with the following breakdown:
