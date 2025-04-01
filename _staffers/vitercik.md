@@ -5,7 +5,7 @@ email: vitercik@stanford.edu
 website: https://vitercik.github.io/
 photo: vitercik.jpeg
 meta:
-  Office Hours: TBD
+  Office Hours: Tuesdays, 3:30-4:30, Huang 250
 ---
 
 Assistant Professor in MS&E and CS
