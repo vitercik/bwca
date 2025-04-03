@@ -32,7 +32,7 @@ This course will be facilitated through in-person class meetings with the profes
 
 Grading will be out of 100 points as follows:
 - **Homeworks:** 60 points (15 for each of four homeworks)
-- **[Project](https://vitercik.github.io/ml4do/project/#grading):** 40 points
+- **[Project](https://vitercik.github.io/bwca/project/#grading):** 40 points
 
 
 ## Course materials
