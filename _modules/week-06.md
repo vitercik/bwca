@@ -22,3 +22,4 @@ title: Spectral algorithms for planted bisection and clique
 : [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 8
 : *Supplemental reading:*
 : - The spectral algorithm for planted clique is from [Finding a large hidden clique in a random graph](https://www.tau.ac.il/~nogaa/PDFS/clique3.pdf) (Alon/Krivelevich/Sudakov, 1998).
+: **Project**{: .label .label-purple } progress report due at 11:59pm
