@@ -18,6 +18,7 @@ title: Perturbation stability
 : *Supplemental reading:*
 : - Makarychev/Makarychev/Vijayaraghavan, [Bilu-Linial Stable Instances of Max Cut and Minimum Multiway Cut](https://arxiv.org/abs/1305.1681), SODA '14.
 
+<!-- ---
 4/24
 : **Perturbation-stable maximum cuts**: Exact recovery in perturbation-stable instances of the maximum cut problem. Metric embeddings and Bourgain's Theorem. Improvements via semidefinite programming.
 : [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l8.pdf)
@@ -30,4 +31,4 @@ title: Perturbation stability
 : **HW2 out**{: .label .label-green } due 5/8
 
 4/29
-: **No class**{: .label .label-purple }
+: **No class**{: .label .label-purple }-->
