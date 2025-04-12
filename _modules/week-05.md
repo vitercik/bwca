@@ -17,6 +17,7 @@ title: Perturbation stability
 : [Textbook](https://searchworks.stanford.edu/view/13773968): Chapter 5
 : *Supplemental reading:*
 : - Makarychev/Makarychev/Vijayaraghavan, [Bilu-Linial Stable Instances of Max Cut and Minimum Multiway Cut](https://arxiv.org/abs/1305.1681), SODA '14.
+: - [Lecture notes](https://vitercik.github.io/bwca/assets/notes/l8.pdf) from a follow-up lecture
 
 <!-- ---
 4/24
