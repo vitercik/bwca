@@ -1,6 +1,6 @@
 ---
 name: Ishani Karmarkar
-role: Course Assistant
+role: Teaching Assistant
 email: ishanik@stanford.edu
 website: https://ishanikarmarkar.github.io/
 photo: ishani.jpg
