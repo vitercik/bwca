@@ -1,6 +1,8 @@
 ---
 name: Ishani Karmarkar
-role: Teaching Assistant
+role: Course Assistant
+email: ishanik@stanford.edu
+website: https://ishanikarmarkar.github.io/
 photo: ishani.jpg
 meta:
   Office Hours: Tuesdays, 11am-12pm, Huang B019
