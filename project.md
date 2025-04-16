@@ -31,6 +31,7 @@ at most two students if it's a survey project (except with special permission).
   not including references or the contributions paragraph.
 
 ## Milestones
+- **April 24**: Add your information to the project matching spreadsheet.
 - **May 1**: Each group will submit a short progress report of 1-2 pages. Describe your project and partial progress.
 - **June 3**: Students will present their final project during class.
 - **June 11**: Each group will submit their final report.
@@ -38,12 +39,14 @@ at most two students if it's a survey project (except with special permission).
 ## Grading
 Grading will be out of 40 points, with the following breakdown:
 - Research
-  - **Progress report**: 10 points.
+  - **Project matching spreadsheet**: 3 points.
+  - **Progress report**: 7 points.
   - **Writing**: 10 points; your final paper should be readable and complete, and it should clearly contextualize your results within prior research.
   - **Novelty**: 10 points; your project should propose something new (either a new application, method, or perspective).
   - **Final presentation**: 10 points; your final project presentation should be clear and provide a solid picture of what you did.
 - Survey
-  - **Progress report**: 10 points.
+  - **Project matching spreadsheet**: 3 points.
+  - **Progress report**: 7 points.
   - **Writing**: 10 points; your final paper should be readable and complete. The connections to prior and subsequent research should be clear.
   - **Novelty**: 10 points; for each paper, the third component of the survey should propose something new (either a new application, method, or perspective).
   - **Final presentation**: 10 points; your final project presentation should be clear and provide a solid picture of what you did.
